@@ -1,2 +1,2 @@
 # skazimport
-new update
+resume update
